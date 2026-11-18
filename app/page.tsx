@@ -53,7 +53,7 @@ export default async function HomePage() {
         <div className="space-y-3">
           <h1 className="text-3xl font-semibold tracking-tight">{marca.nome}</h1>
           <p className="text-lg text-muted-foreground">
-            {t("Atendimento e vendas pelo WhatsApp, com agentes de inteligência artificial.")}
+            {t("Atendimento e vendas pelo WhatsApp, com agentes de IA.")}
           </p>
         </div>
 

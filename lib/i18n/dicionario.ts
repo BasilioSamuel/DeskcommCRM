@@ -592,7 +592,7 @@ export const DICIONARIO: Traducoes = {
     es: "Conecta tu cuenta personal de ChatGPT dentro de los límites de la suscripción; para operar a gran escala, es mejor usar una clave de API de la organización. Una clave de la propia organización puede servir como alternativa.",
   },
   // Página inicial pública e seção "Dados do Google" da política de privacidade.
-  "Atendimento e vendas pelo WhatsApp, com agentes de inteligência artificial.": { es: "Atención y ventas por WhatsApp, con agentes de inteligencia artificial." },
+  "Atendimento e vendas pelo WhatsApp, com agentes de IA.": { es: "Atención y ventas por WhatsApp, con agentes de inteligencia artificial." },
   "Atendimento e vendas pelo WhatsApp, também no celular.": { es: "Atención y ventas por WhatsApp, también en el celular." },
   "reúne em um só lugar as conversas com os clientes, o funil de vendas, a agenda de atendimentos e agentes de inteligência artificial que respondem, qualificam o interesse e passam a conversa para uma pessoa quando é preciso.": { es: "reúne en un solo lugar las conversaciones con los clientes, el embudo de ventas, la agenda de atención y agentes de inteligencia artificial que responden, califican el interés y pasan la conversación a una persona cuando hace falta." },
   "Quando a empresa conecta o Google Agenda, o": { es: "Cuando la empresa conecta Google Calendar, el" },
